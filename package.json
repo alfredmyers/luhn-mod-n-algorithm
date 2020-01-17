@@ -1,0 +1,28 @@
+{
+  "name": "luhnmodn",
+  "version": "0.0.1",
+  "description": "Creates and validates Luhn Mod N check values",
+  "main": "index.js",
+  "scripts": {
+    "postpublish": "git push origin --all; git push origin --tags",
+    "postversion": "npm publish",
+    "preversion": "npm test",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredmyers/luhnmodn.git"
+  },
+  "keywords": [
+    "Luhn"
+  ],
+  "author": "Alfred Myers <code@alfredmyers.com> (https://alfredmyers.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfredmyers/luhnmodn/issues"
+  },
+  "homepage": "https://github.com/alfredmyers/luhnmodn#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
