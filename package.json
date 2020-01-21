@@ -1,5 +1,5 @@
 {
-  "name": "luhnmodn",
+  "name": "luhn-mod-n-algorithm",
   "version": "1.0.0",
   "description": "Creates and validates Luhn Mod N check values",
   "main": "index.js",
