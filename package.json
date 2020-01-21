@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfredmyers/luhnmodn.git"
+    "url": "git+https://github.com/alfredmyers/luhn-mod-n-algorithm.git"
   },
   "keywords": [
     "Luhn"
@@ -18,9 +18,9 @@
   "author": "Alfred Myers <code@alfredmyers.com> (https://alfredmyers.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alfredmyers/luhnmodn/issues"
+    "url": "https://github.com/alfredmyers/luhn-mod-n-algorithm/issues"
   },
-  "homepage": "https://github.com/alfredmyers/luhnmodn#readme",
+  "homepage": "https://github.com/alfredmyers/luhn-mod-n-algorithm#readme",
   "devDependencies": {
     "jest": "^24.9.0"
   },

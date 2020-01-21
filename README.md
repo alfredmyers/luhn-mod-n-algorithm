@@ -1,6 +1,6 @@
-# luhnmodn
+# luhn-mod-n-algorithm
 
-![GitHub](https://img.shields.io/github/license/alfredmyers/luhnmodn.svg?style=flat) [![Build Status](https://travis-ci.com/alfredmyers/luhnmodn.svg?branch=master)](https://travis-ci.com/alfredmyers/luhnmodn)
+![GitHub](https://img.shields.io/github/license/alfredmyers/luhn-mod-n-algorithm.svg?style=flat) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/alfredmyers/luhn-mod-n-algorithm/Node CI)
 
 Generates and calculates Luhn Mod N check values
 
@@ -10,7 +10,7 @@ with minimal modifications.
 ## Installing
 
 ```sh
-npm i luhnmodn
+npm i luhn-mod-n-algorithm
 ```
 
 ## API
