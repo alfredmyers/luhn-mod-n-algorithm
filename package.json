@@ -4,8 +4,7 @@
   "description": "Creates and validates Luhn Mod N check values",
   "main": "index.js",
   "scripts": {
-    "postpublish": "git push origin --all; git push origin --tags",
-    "postversion": "npm publish",
+    "postversion": "git push origin --all; git push origin --tags",
     "preversion": "npm test",
     "test": "jest --coverage"
   },
@@ -24,5 +23,9 @@
   "homepage": "https://github.com/alfredmyers/luhnmodn#readme",
   "devDependencies": {
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "calculate-luhn-mod-n": "^2.0.7",
+    "validate-luhn-mod-n": "^1.0.0"
   }
 }
