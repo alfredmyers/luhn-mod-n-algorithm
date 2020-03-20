@@ -1,6 +1,8 @@
 # luhn-mod-n-algorithm
 
-![GitHub](https://img.shields.io/github/license/alfredmyers/luhn-mod-n-algorithm.svg?style=flat) ![](https://github.com/alfredmyers/luhn-mod-n-algorithm/workflows/Node%20CI/badge.svg)
+![GitHub](https://img.shields.io/github/license/alfredmyers/luhn-mod-n-algorithm.svg?style=flat)
+![Node CI](https://github.com/alfredmyers/luhn-mod-n-algorithm/workflows/Node%20CI/badge.svg)
+![Node.js Package](https://github.com/alfredmyers/luhn-mod-n-algorithm/workflows/Node.js%20Package/badge.svg)
 
 Generates and calculates Luhn Mod N check values
 
