@@ -25,7 +25,7 @@
     "jest": "^27.0.5"
   },
   "dependencies": {
-    "calculate-luhn-mod-n": "^2.0.10",
-    "validate-luhn-mod-n": "^1.0.3"
+    "calculate-luhn-mod-n": "^2.0.11",
+    "validate-luhn-mod-n": "^1.0.4"
   }
 }
